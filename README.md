@@ -12,7 +12,7 @@
 
 ### About Me
 
-- 🔭 I am a passionate and curious developer with a strong interest in **Full Stack Web Development**, **BlockChain**, **AI & ML** and building solutions that make a meaningful impact.
+- 🔭 I am a passionate and curious developer with a strong interest in **Full Stack Web Development**, **BlockChain** and building solutions that make a meaningful impact.
 - 🤝 I’m open to collaborating on **hackathons** and projects that aim to solve real-world challenges through technology.
 - 💬 Ask me about **MERN Stack, Next.js, MongoDB, SQL, and Java**
 - 👤 Pronouns: **He/Him**
@@ -142,9 +142,6 @@
     <td align="center" width="100">
       <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" width="40"/><br>IntelliJ
     </td>
-    <td align="center" width="100">
-      <img src="https://img.icons8.com/color/48/000000/figma--v1.png" width="40"/><br>Figma
-    </td>
   </tr>
 </table>
 
@@ -152,22 +149,16 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prathampmp23&show_icons=true&theme=tokyonight" height="180" />
+<p align="center" height="100px" width="100px">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prathampmp23&theme=tokyonight&hide_border=true" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathampmp23&layout=compact&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathampmp23&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center" height="100px" width="100px">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prathampmp23&bg_color=0d1117&color=00ffe5&line=00ffe5&point=ffffff&area=true&hide_border=true" />
 </p>
 
 ---
-
-### 🌐 Connect with Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/pratham-potdar-49744b236/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:prathampotdar.contact@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-</p> 
