@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pratham</h1>
+<h1 align="center">Hi there👋, I'm Pratham</h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -12,11 +12,14 @@
 
 ### About Me
 
-- 🔭 I am a passionate and curious developer with a strong interest in **Full Stack Web Development**, **BlockChain** and building solutions that make a meaningful impact.
+- 🔭 I am a passionate and curious developer with a strong interest in **Full Stack Web Development** and building solutions that make a meaningful impact.
 - 🤝 I’m open to collaborating on **hackathons** and projects that aim to solve real-world challenges through technology.
 - 💬 Ask me about **MERN Stack, Next.js, MongoDB, SQL, and Java**
 - 👤 Pronouns: **He/Him**
 - 📫 You can reach me from **prathampotdar.contact@gmail.com**
+
+
+ 🌐 <a href="https://portfolio-5t6n.onrender.com" target="_blank"><b>Visit My Portfolio</b></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -60,16 +63,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/><br>CSS3
     </td>
     <td align="center" width="100">
-      <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" width="40"/><br>JavaScript
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/><br>React
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/><br>Next.js
-    </td>
-    <td align="center" width="100">
-      <img src="https://img.icons8.com/color/48/000000/tailwind_css.png" width="40"/><br>Tailwind
+      <img src="https://img.icons8.com/color/48/000000/tailwind_css.png" width="40"/><br>Tailwind CSS
     </td>
   </tr>
 </table>
@@ -83,17 +77,30 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/><br>Node.js
     </td>
     <td align="center" width="100">
-      <img src="https://img.icons8.com/?size=512&id=SDVmtZ6VBGXt&format=png" width="40"/><br>Express
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/><br>Next.js
-    </td>
-    <td align="center" width="100">
       <img src="https://brandeps.com/logo-download/F/Firebase-logo-02.png" width="40"/><br>Firebase
     </td>
   </tr>
 </table>
 
+
+### 🧩 Frameworks & Libraries
+
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://img.icons8.com/?size=512&id=SDVmtZ6VBGXt&format=png" width="40"/><br>Express.js
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/><br>React
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/><br>Next.js
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40"/><br>Spring Boot
+    </td>
+  </tr>
+</table>
 
 ### 🗄️ Databases
 
@@ -104,9 +111,6 @@
     </td>
     <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/><br>MySQL
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/><br>PostgreSQL
     </td>
   </tr>
 </table>
@@ -124,6 +128,9 @@
     </td>
     <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="40"/><br>Vercel
+    </td>
+      <td align="center" width="100">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/><br>Docker
     </td>
   </tr>
 </table>
@@ -155,10 +162,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathampmp23&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center" height="100px" width="100px">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prathampmp23&bg_color=0d1117&color=00ffe5&line=00ffe5&point=ffffff&area=true&hide_border=true" />
 </p>
 
 ---
