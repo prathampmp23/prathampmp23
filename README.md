@@ -88,6 +88,9 @@
 <table>
   <tr>
     <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40"/><br>Spring Boot
+    </td>
+    <td align="center" width="100">
       <img src="https://img.icons8.com/?size=512&id=SDVmtZ6VBGXt&format=png" width="40"/><br>Express.js
     </td>
     <td align="center" width="100">
@@ -95,9 +98,6 @@
     </td>
     <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/><br>Next.js
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40"/><br>Spring Boot
     </td>
   </tr>
 </table>
