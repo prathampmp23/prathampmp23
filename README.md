@@ -159,12 +159,19 @@
 
 ### 📊 GitHub Stats
 
-<p align="center" height="100px" width="100px">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prathampmp23&theme=tokyonight&hide_border=true" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prathampmp23&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <br/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathampmp23&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" /> -->
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathampmp23&layout=compact&theme=tokyonight&hide_border=true" />
+  <!-- <img src="https://streak-stats.demolab.com/?user=prathampmp23&theme=tokyonight&hide_border=true" width="48%" /> -->
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=prathampmp23&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prathampmp23&theme=tokyonight&hide_border=true&area=true" width="80%" />
 </p>
 
 ---
