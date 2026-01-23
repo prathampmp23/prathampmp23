@@ -168,6 +168,9 @@
   <br/>
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathampmp23&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" /> -->
 </p>
+  <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prathampmp23&show_icons=true&theme=tokyonight&rank_icon=github" height="180" />
+</p>
 
 <p align="center">
   <!-- <img src="https://streak-stats.demolab.com/?user=prathampmp23&theme=tokyonight&hide_border=true" width="48%" /> -->
