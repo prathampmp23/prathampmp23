@@ -18,7 +18,7 @@
 
 - 🔭 I am a passionate and curious developer with a strong interest in **Full Stack Web Development** and building solutions that make a meaningful impact.
 - 🤝 I’m open to collaborating on **hackathons** and projects that aim to solve real-world challenges through technology.
-- 💬 Ask me about **MERN Stack, Next.js, MongoDB, SQL, and Java**
+- 💬 Ask me about **MERN Stack, SpringBoot, React.js, MongoDB, SQL, and Java**
 - 👤 Pronouns: **He/Him**
 - 📫 You can reach me from **prathampotdar.contact@gmail.com**
 
