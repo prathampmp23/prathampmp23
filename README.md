@@ -61,10 +61,13 @@
 <table>
   <tr>
     <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/><br>HTML5
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/><br>HTML
     </td>
     <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/><br>CSS3
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/><br>CSS
+    </td>
+    <td align="center" width="100">
+      <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" width="40"/><br>JavaScript
     </td>
     <td align="center" width="100">
       <img src="https://img.icons8.com/color/48/000000/tailwind_css.png" width="40"/><br>Tailwind CSS
@@ -98,10 +101,10 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40"/><br>Spring Boot
     </td>
     <td align="center" width="100">
-      <img src="https://img.icons8.com/?size=512&id=SDVmtZ6VBGXt&format=png" width="40"/><br>Express.js
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/><br>React
     </td>
     <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/><br>React
+      <img src="https://img.icons8.com/?size=512&id=SDVmtZ6VBGXt&format=png" width="40"/><br>Express.js
     </td>
     <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/><br>Next.js
