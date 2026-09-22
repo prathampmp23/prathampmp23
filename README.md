@@ -179,8 +179,8 @@
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=prathampmp23&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=prathampmp23&theme=tokyonight&hide_border=true&area=true" width="80%" />
-</p>
+</p> -->
 
 ---
