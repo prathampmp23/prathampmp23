@@ -23,7 +23,7 @@
 - 📫 You can reach me from **prathampotdar.contact@gmail.com**
 
 
- 🌐 <a href="https://portfolio-5t6n.onrender.com" target="_blank"><b>Visit My Portfolio</b></a>
+ 🌐 <a href="https://prathamdevfolio.vercel.app" target="_blank"><b>Visit My Portfolio</b></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
